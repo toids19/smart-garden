@@ -54,7 +54,7 @@ This project simplifies water level monitoring, ensuring developers can efficien
 
 This project requires the following dependencies:
 
-- **Programming Language:** unknown
+- **Programming Language:** C++
 
 ### Installation
 
